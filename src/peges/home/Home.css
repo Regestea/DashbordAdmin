@@ -1,0 +1,9 @@
+.home{
+    flex: 4;
+  
+}
+
+.homeWigetes{
+    display: flex;
+    flex-direction: row;
+}
